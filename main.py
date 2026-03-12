@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # =================== CONFIG ===================
-BOT_TOKEN = "8778065589:AAFIYpfFIg3a5Zz2F2lsahWAuABOiCa1m6U"  # apna token
+BOT_TOKEN = "8788697559:AAHWKviukW2AqUDEu3mW1EXKnG07j8KhGM0"  # apna token
 ADMIN_ID = 7860744037                                          # apna admin ID
 ADMINS = [7860744037]
 
